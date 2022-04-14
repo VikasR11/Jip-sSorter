@@ -22,6 +22,7 @@ class SortTester {
 		Assert.assertArrayEquals(expected, array);
 	}
 	
+	
 	/**
 	 * Tests the functionality of quickSort()
 	 */
